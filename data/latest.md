@@ -28,6 +28,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Debugging memory leaks* in JavaScript with Chrome DevTools, [@gruizdevilla]()’s [slide deck](http://slid.es/gruizdevilla/memory) + [resources](https://twitter.com/gruizdevilla/status/352848691943587840) ![][*]
    - “The art of Node”, an *introduction to Node.js*, [@maxogden]()’s short [book](https://github.com/maxogden/art-of-node)
    - List of (over 900) *Chromium command-line switches*, [@beverloo]()’s [page](http://peter.sh/experiments/chromium-command-line-switches/) 
+   - How to *use the native browser API* to clone the jQuery API, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
  - Tools
    - Hack St., an online tool for *debugging HTTP headers*, [site](http://hackst.com/)
    - timechart, a library for creating *time based charts*, [site](http://timechart.toolset.io/) w/ demo
